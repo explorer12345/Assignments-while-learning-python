@@ -15,3 +15,5 @@ You will require numpy, scipy, matplotlib, ipywidgets libraries to run the code.
 
 Life Expectancy Data Analysis:
 In this project I've analysed the 'Life expectancy' data file using various python libraries and some theoretical data analysis tools. This include representing and comparing various parameters using barplots, boxplots, scatter plots. I've also used simmple linear regression to predict the future life expectancy and compared it with the actual ones.
+Refer 'Life_expectancy.pptx' file for the presentation.
+You'll require to place the'Life expectancy.csv' file in the required directory and numpy, matplotlib,scipy,pandas,ipywidgets libraries to run the code properly.
